@@ -15,41 +15,41 @@ body {
 }
 
 .navbar {
-    display: flex;
-    align-items: center;
-    justify-content: end;
-    gap: 2.4rem;
-height: 4rem;
-background-color: rgb(190,49,68);
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 2.4rem;
+  height: 4rem;
+  background-color: rgb(190, 49, 68);
 }
 
 .navbar a {
-    text-decoration: none;
-    font-weight: 300;
-    color: #ffffff;
-    margin-right: 1rem;
-    font-size: 1.4rem;
+  text-decoration: none;
+  font-weight: 300;
+  color: #ffffff;
+  margin-right: 1rem;
+  font-size: 1.4rem;
 }
 
 .title {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    width: 100vw;
-flex-direction: column;
-padding-bottom: 9rem;
-gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100vw;
+  flex-direction: column;
+  padding-bottom: 9rem;
+  gap: 1rem;
 }
 
 .mimic {
-    font-size: 3.8rem;
-    font-weight: 600;
-    color: rgb(217, 212, 212);
+  font-size: 3.8rem;
+  font-weight: 600;
+  color: rgb(217, 212, 212);
 }
 
 .web {
-    font-size: 2rem;
-    color: rgb(152,47,68);
-    font-weight: 100;
+  font-size: 2rem;
+  color: rgb(152, 47, 68);
+  font-weight: 100;
 }
